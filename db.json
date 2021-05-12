@@ -5,5 +5,13 @@
             "name": "Batson",
             "description": "Original-Bat-Makers"
         }
+    ],
+    "person": [
+        {
+            "id": 1,
+            "firstname": "Thomas",
+            "lastname": "Batson",
+            "description": "Loves-cats"
+        }
     ]
 }
